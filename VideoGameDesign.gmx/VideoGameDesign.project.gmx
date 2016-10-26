@@ -15,6 +15,7 @@
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\object1</object>
+    <object>objects\object2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
