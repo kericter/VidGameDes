@@ -9,16 +9,24 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\spr_enginefire</sprite>
+    <sprite>sprites\spr_enemy1</sprite>
+    <sprite>sprites\spr_enemy2</sprite>
+    <sprite>sprites\spr_enemy3</sprite>
+    <sprite>sprites\spr_enemy4</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_tile1</background>
+    <background>background\bg_1</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object0</object>
-    <object>objects\object1</object>
-    <object>objects\object2</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_enemy</object>
+    <object>objects\obj_projectile</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\rm_0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
