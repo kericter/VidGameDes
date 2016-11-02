@@ -7,13 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\sprite1</sprite>
     <sprite>sprites\spr_projectile1</sprite>
     <sprite>sprites\spr_enginefire</sprite>
     <sprite>sprites\spr_enemy1</sprite>
     <sprite>sprites\spr_enemy2</sprite>
     <sprite>sprites\spr_enemy3</sprite>
     <sprite>sprites\spr_enemy4</sprite>
+    <sprite>sprites\sprite8</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_tile1</background>
@@ -22,8 +22,11 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
-    <object>objects\obj_enemy</object>
     <object>objects\obj_projectile</object>
+    <object>objects\obj_engine_fire</object>
+    <object>objects\obj_enemy_1</object>
+    <object>objects\obj_enemy_2</object>
+    <object>objects\obj_box</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_0</room>
