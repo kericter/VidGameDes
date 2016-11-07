@@ -71,7 +71,7 @@
     <instance objName="obj_enemy_1" x="224" y="-128" name="inst_8550C5B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box" x="0" y="-32" name="inst_7BBAF908" locked="0" code="" scaleX="15" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box" x="-32" y="0" name="inst_8C536FA2" locked="0" code="" scaleX="1" scaleY="9" colour="4294967295" rotation="0"/>
-    <instance objName="obj_box" x="448" y="288" name="inst_1571A825" locked="0" code="" scaleX="-14" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_box" x="320" y="384" name="inst_1571A825" locked="0" code="" scaleX="-14" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box" x="448" y="288" name="inst_C622FB90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box" x="480" y="256" name="inst_14544465" locked="0" code="" scaleX="1" scaleY="-8" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_2" x="0" y="-1056" name="inst_FEB4F3F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
