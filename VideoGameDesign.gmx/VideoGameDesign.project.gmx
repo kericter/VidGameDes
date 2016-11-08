@@ -14,17 +14,16 @@
     <sprite>sprites\spr_enemy3</sprite>
     <sprite>sprites\spr_enemy4</sprite>
     <sprite>sprites\sprite8</sprite>
-    <sprites name="Background_one">
-      <sprite>sprites\spr_ussless_but_dont_delete</sprite>
-      <sprite>sprites\spr_center</sprite>
-      <sprite>sprites\spr_top_right</sprite>
-      <sprite>sprites\spr_top</sprite>
-      <sprite>sprites\spr_top_left</sprite>
-      <sprite>sprites\spr_left</sprite>
-      <sprite>sprites\spr_bottom_left</sprite>
-      <sprite>sprites\spr_bottom</sprite>
-      <sprite>sprites\spr_bottom_right</sprite>
-      <sprite>sprites\spr_right</sprite>
+    <sprites name="bg_1">
+      <sprite>sprites\tpright</sprite>
+      <sprite>sprites\centr</sprite>
+      <sprite>sprites\tp</sprite>
+      <sprite>sprites\tpleft</sprite>
+      <sprite>sprites\lft</sprite>
+      <sprite>sprites\bttmleft</sprite>
+      <sprite>sprites\bttm</sprite>
+      <sprite>sprites\bttmright</sprite>
+      <sprite>sprites\rght</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
