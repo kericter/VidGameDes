@@ -40,9 +40,20 @@
     <object>objects\obj_enemy_2</object>
     <object>objects\obj_box</object>
     <object>objects\object6</object>
+    <objects name="Background_thing">
+      <object>objects\center</object>
+      <object>objects\topright</object>
+      <object>objects\top</object>
+      <object>objects\topleft</object>
+      <object>objects\left</object>
+      <object>objects\bottomleft</object>
+      <object>objects\bottom</object>
+      <object>objects\bottomright</object>
+      <object>objects\right</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
