@@ -35,8 +35,10 @@
     <object>objects\obj_player</object>
     <object>objects\obj_projectile</object>
     <object>objects\obj_engine_fire</object>
-    <object>objects\obj_enemy_1</object>
     <object>objects\obj_enemy_2</object>
+    <object>objects\obj_enemy_3</object>
+    <object>objects\obj_enemy_4</object>
+    <object>objects\obj_enemy_1</object>
     <object>objects\obj_box</object>
     <object>objects\object6</object>
     <objects name="Background_thing">

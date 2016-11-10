@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>35</string>
+            <string>40</string>
           </argument>
         </arguments>
       </action>
@@ -51,24 +51,39 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>hitOne = instance_place(x,y, obj_enemy_1);
+            <string>hit_1 = instance_place(x,y, obj_enemy_1);
 
-hitTwo = instance_place(x,y, obj_enemy_2);
+hit_2 = instance_place(x,y, obj_enemy_2);
+
+hit_3 = instance_place(x,y, obj_enemy_3);
+
+hit_4 = instance_place(x,y, obj_enemy_4);
 
 destroy = instance_place(x,y, obj_box);
 
-if (hitOne != noone)
+if (hit_1 != noone)
 {
-    hitOne.hp -= 1;
+    hit_1.hp -= 1;
     instance_destroy();
 }
 
-if (hitTwo != noone)
+if (hit_2 != noone)
 {
-    hitTwo.hp -= 1;
+    hit_2.hp -= 1;
     instance_destroy();
 }
 
+if (hit_3 != noone)
+{
+    hit_3.hp -= 1;
+    instance_destroy();
+}
+
+if (hit_4 != noone)
+{
+    hit_4.hp -= 1;
+    instance_destroy();
+}
 if (destroy != noone)
 {
     instance_destroy();
