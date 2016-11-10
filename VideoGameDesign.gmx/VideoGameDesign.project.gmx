@@ -24,6 +24,10 @@
       <sprite>sprites\bttm</sprite>
       <sprite>sprites\bttmright</sprite>
       <sprite>sprites\rght</sprite>
+      <sprite>sprites\crnrtopleft</sprite>
+      <sprite>sprites\crnrbotleft</sprite>
+      <sprite>sprites\crnrtopright</sprite>
+      <sprite>sprites\crnrbotright</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
