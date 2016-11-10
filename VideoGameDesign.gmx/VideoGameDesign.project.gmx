@@ -45,7 +45,7 @@
     <object>objects\obj_enemy_1</object>
     <object>objects\obj_box</object>
     <object>objects\object6</object>
-    <objects name="Background_thing">
+    <objects name="tile1">
       <object>objects\center</object>
       <object>objects\topright</object>
       <object>objects\top</object>
@@ -55,8 +55,20 @@
       <object>objects\bottom</object>
       <object>objects\bottomright</object>
       <object>objects\right</object>
+      <object>objects\cornertopleft</object>
+      <object>objects\cornerbotleft</object>
+      <object>objects\cornertopright</object>
+      <object>objects\cornerbotright</object>
     </objects>
   </objects>
+  <timelines name="timelines">
+    <timelines name="player">
+      <timeline>timelines\move_left</timeline>
+      <timeline>timelines\move_right</timeline>
+      <timeline>timelines\back_left</timeline>
+      <timeline>timelines\back_right</timeline>
+    </timelines>
+  </timelines>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>

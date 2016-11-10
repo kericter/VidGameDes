@@ -232,34 +232,38 @@ y = max(y,0)
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>8</string>
           </argument>
         </arguments>
       </action>
       <action>
         <libid>1</libid>
-        <id>541</id>
+        <id>305</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_sprite_set</functionname>
+        <functionname>action_timeline_set</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>5</kind>
-            <sprite>spr_player</sprite>
+            <kind>14</kind>
+            <timeline>move_right</timeline>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>4</string>
+            <string>0</string>
           </argument>
           <argument>
-            <kind>0</kind>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
             <string>0</string>
           </argument>
         </arguments>
@@ -304,34 +308,38 @@ y = max(y,0)
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-10</string>
+            <string>-8</string>
           </argument>
         </arguments>
       </action>
       <action>
         <libid>1</libid>
-        <id>541</id>
+        <id>305</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_sprite_set</functionname>
+        <functionname>action_timeline_set</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>5</kind>
-            <sprite>spr_player</sprite>
+            <kind>14</kind>
+            <timeline>move_left</timeline>
           </argument>
           <argument>
             <kind>0</kind>
             <string>0</string>
           </argument>
           <argument>
-            <kind>0</kind>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
             <string>0</string>
           </argument>
         </arguments>
@@ -390,28 +398,32 @@ y = max(y,0)
       </action>
       <action>
         <libid>1</libid>
-        <id>541</id>
+        <id>305</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_sprite_set</functionname>
+        <functionname>action_timeline_set</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>5</kind>
-            <sprite>spr_player</sprite>
+            <kind>14</kind>
+            <timeline>back_right</timeline>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>0</string>
           </argument>
           <argument>
-            <kind>0</kind>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
             <string>0</string>
           </argument>
         </arguments>
@@ -470,28 +482,32 @@ y = max(y,0)
       </action>
       <action>
         <libid>1</libid>
-        <id>541</id>
+        <id>305</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_sprite_set</functionname>
+        <functionname>action_timeline_set</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>5</kind>
-            <sprite>spr_player</sprite>
+            <kind>14</kind>
+            <timeline>back_left</timeline>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>0</string>
           </argument>
           <argument>
-            <kind>0</kind>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
             <string>0</string>
           </argument>
         </arguments>
