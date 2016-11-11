@@ -27,14 +27,14 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
     </event>
   </entry>
   <entry>
-    <step>30</step>
+    <step>100</step>
     <event>
       <action>
         <libid>1</libid>
@@ -60,7 +60,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
