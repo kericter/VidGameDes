@@ -61,14 +61,7 @@
       <object>objects\cornerbotright</object>
     </objects>
   </objects>
-  <timelines name="timelines">
-    <timelines name="player">
-      <timeline>timelines\move_left</timeline>
-      <timeline>timelines\move_right</timeline>
-      <timeline>timelines\back_left</timeline>
-      <timeline>timelines\back_right</timeline>
-    </timelines>
-  </timelines>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
