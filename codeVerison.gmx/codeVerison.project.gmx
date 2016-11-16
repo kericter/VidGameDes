@@ -4,13 +4,17 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_shoot</sound>
+    <sound>sound\snd_explosion</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_explosion</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\sprite3</sprite>
     <sprite>sprites\spr_enemy_blue</sprite>
+    <sprite>sprites\sprite5</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -23,8 +27,8 @@
   </scripts>
   <objects name="objects">
     <object>objects\obj_player</object>
-    <object>objects\obj_settings</object>
     <object>objects\obj_bullet</object>
+    <object>objects\obj_settings</object>
     <object>objects\obj_enemy_red</object>
     <object>objects\obj_enemy_blue</object>
     <object>objects\obj_box</object>

@@ -25,9 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>scale = 2;
-window_set_size(window_get_width() * scale, window_get_height() * scale);
-</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -49,11 +47,7 @@ window_set_size(window_get_width() * scale, window_get_height() * scale);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x = min(x,room_width-16);
-x = max(x,16);
-y = min(x,room_width-16);
-y = max(y,16)
-</string>
+            <string></string>
           </argument>
         </arguments>
       </action>

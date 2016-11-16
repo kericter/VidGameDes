@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>vspeed = -40;
+            <string>vspeed = -30;
 
 hit_1 = instance_place(x,y, obj_enemy_red);
 destroy = instance_place(x,y, obj_box);
